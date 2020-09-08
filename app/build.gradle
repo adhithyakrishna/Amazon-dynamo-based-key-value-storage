@@ -4,7 +4,7 @@ android {
     compileSdkVersion 19
 
     defaultConfig {
-        applicationId "edu.buffalo.cse.cse486586.groupmessenger2"
+        applicationId "edu.buffalo.cse.cse486586.simpledynamo"
         minSdkVersion 19
         targetSdkVersion 19
     }
