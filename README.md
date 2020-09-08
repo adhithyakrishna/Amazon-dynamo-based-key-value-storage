@@ -1,9 +1,9 @@
 # Amazon-dynamo-based-key-value-storage
 
-- Implement a distributed key-value storage system
-- Implement data replication
-- Implement data partitioning
-- Handle node failures while continuing to provide availability and linearizability
+This project implements a distributed key-value storage system, capable of performing
+- Data replication
+- Data partitioning
+- Automatic failure recovery while guaranteeing availability and linearizability
 
 ### References
 
